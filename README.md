@@ -1,7 +1,8 @@
 # Iris-Decision-Tree-Classifier
 Using Decision Tree Classification Algorithm to built a prediction model for Iris dataset. Each entry of the Iris dataset specifies a flower's Sepal length, Sepal width, Petal length, and Petal width.
 
-Note : The criterion used in the decision tree classifier algorithm is 'entropy'.
+Note : The criterion used in the decision tree classifier algorithm is '**entropy**'.
+
 Note : The dataset has been standardised and thus in the visualization of the decision tree some values may be negative.
 
 Here's a peek into what the tree looks like...
